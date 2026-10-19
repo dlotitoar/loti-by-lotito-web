@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">LOTI by Lotito — concepto visual premium</title>
+  <desc id="desc">Logotipo tipográfico en marfil y champagne sobre fondo grafito, con un símbolo abstracto de barras de datos.</desc>
+  <defs>
+    <linearGradient id="champagne" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E6D3A7"/>
+      <stop offset="1" stop-color="#A98447"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="420" rx="28" fill="#17191D"/>
+  <g transform="translate(78 138)" fill="url(#champagne)">
+    <rect x="0" y="86" width="25" height="62" rx="4"/>
+    <rect x="42" y="47" width="25" height="101" rx="4"/>
+    <rect x="84" y="0" width="25" height="148" rx="4"/>
+    <rect x="126" y="28" width="25" height="120" rx="4"/>
+  </g>
+  <text x="294" y="253" fill="#F7F5F0" font-family="Inter, Avenir, Montserrat, Arial, sans-serif" font-size="174" font-weight="700" letter-spacing="12">LOTI</text>
+  <path d="M302 291 H760" stroke="url(#champagne)" stroke-width="2" opacity=".9"/>
+  <text x="300" y="335" fill="#D9C294" font-family="Inter, Avenir, Montserrat, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="8">BY LOTITO</text>
+  <text x="840" y="326" fill="#D1C8B8" font-family="Inter, Avenir, Montserrat, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="3">DATA  ·  ANALYTICS  ·  INSIGHTS</text>
+</svg>
